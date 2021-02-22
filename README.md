@@ -7,4 +7,5 @@ https://www.canva.com/design/DAEQAXsAM-c/lh4TQUPD-n1cpEVoeOKYag/view?utm_content
 
 Code in ATMega 328 programming language has been attached.
 
-Circuit Image:
+Circuit Image: 
+[Circuit](Circuit.jpeg)
